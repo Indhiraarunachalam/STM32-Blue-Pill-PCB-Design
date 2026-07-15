@@ -87,25 +87,25 @@ STM32_Blue_Pill_PCB_Design
 
 ### Schematic - Part 1
 
-![STM32 Schematic Part 1](Images/STM32_Schematic_1.png)
+![STM32 Blue Pill Schematic Part 1](Images/STM32_Bluepill_schematic_1.png)
 
 ---
 
 ### Schematic - Part 2
 
-![STM32 Schematic Part 2](Images/STM32_Schematic_2.png)
+![STM32 Blue Pill Schematic Part 2](Images/STM32_Bluepill_schematic_2.png)
 
 ---
 
 ### PCB Layout - Top Layer
 
-![STM32 PCB Top Layer](Images/STM32_PCB_TopLayer.png)
+![STM32 Blue Pill PCB Top Layer](Images/STM32_Bluepill_TopLayer_pcb.png)
 
 ---
 
 ### PCB Layout - Bottom Layer
 
-![STM32 PCB Bottom Layer](Images/STM32_PCB_BottomLayer.png)
+![STM32 Blue Pill PCB Bottom Layer](Images/STM32_Bluepill_BottomLayer_pcb.png)
 
 ---
 
